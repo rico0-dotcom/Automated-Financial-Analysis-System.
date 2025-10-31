@@ -1,4 +1,12 @@
-utomated Financial Analysis System
+AI Financial Analysis System:
+
+### Test Case
+Tested on Walmart’s annual report (10-K, includes 3 years of financials).
+
+- Notebook with full run output: `Financial_analytic_Ai.ipynb`
+- Parsing algorithm: `financial_parsing_horizontal.py`
+- Ratio engine: `ratio.py`
+
 
 End-to-end pipeline for parsing raw financial statements, standardizing line items, computing ratios, and generating analyst-style insights.
 
